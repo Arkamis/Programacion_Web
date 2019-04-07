@@ -1,8 +1,13 @@
-# BINARY SEARCH TREE
+# BINARY SEARCH TREE :cyclone:
 Para probar la "app" modo consola que se creo se debe:
-  1.- Bajar el proyecto desde ./Arboles
-  2.- git install   para instalar los paquetes utilizados
-  3.- node main.js   para correr (perdon por no poner npm start xd)
+  1. Bajar el proyecto desde ./Arboles
+  2. ir a tu Terminal y ubicarte en /Arboles.
+  3. Ejecutar los siguientes comandos:
+     ```
+     npm install  
+     node main.js
+  git install   para instalar los paquetes utilizados
+  3. node main.js   para correr (perdon por no poner npm start xd)
   
   ## Propiedades
  
