@@ -7,7 +7,7 @@ Para probar la "app" modo consola que se creo se debe:
   2.- git install   para instalar los paquetes utilizados
   3.- node main.js   para correr (perdon por no poner npm start xd)
   
-  ##Propiedades
+  ## Propiedades
  
  ### Agregar Nodo
  Para agregar un nodo debes seleccionar la opcion y asignarle un valor, la insercion se hace siguiendo las reglas de mayor y menor desde la raiz
